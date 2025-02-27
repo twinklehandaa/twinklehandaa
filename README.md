@@ -1,5 +1,5 @@
 ## Hi there 👋
-A machine learning and data science enthusiast exploring the world of tech 👩🏻‍💻
+I'm a machine learning and data science enthusiast exploring the world of tech 👩🏻‍💻
 
 ## 💻Tech Stack:
 
