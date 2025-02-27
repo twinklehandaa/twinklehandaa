@@ -8,6 +8,7 @@ A machine learning and data science enthusiast exploring the world of tech 👩�
 ## 📈GitHub Stats:
 
 [![Twinkle's GitHub stats](https://github-readme-stats.vercel.app/api?username=twinklehandaa&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=twinklehandaa&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twinklehandaa&theme=transparent)](https://git.io/streak-stats)
+
 
